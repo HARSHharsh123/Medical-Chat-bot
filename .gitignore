@@ -161,4 +161,4 @@ cython_debug/
 #.idea/
 
 model/llama-2-13b-chat.ggmlv3.q5_1.bin
-Data/Medical_book.pdf
+# Data/Medical_book.pdf
